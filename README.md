@@ -6,7 +6,7 @@
 - :briefcase: Atualmente sou estagiário na TOTVS;
 - :video_game: Fã de games;
 - :coffee: Amante de um bom café;
-- :scroll: Amo ler HQ's acompanhado com um café ! 
+- :scroll: Amante de historias em quadrinhos. 
 
 ### Ferramentas e tecnologias que estou aprendendo:
 
