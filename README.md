@@ -1,5 +1,6 @@
 ## 👋 Olá, Bem-vindo ao meu Github.
-### Meu nome é Gustavo, atualmente sou estudante de análise e desenvolvimento de sistemas e formado em Administração de empresas. 
+### Meu nome é Gustavo, sou formado em administração de empresas, estudando atualmente análise e desenvolvimento de sistemas e apaixonado por tecnologia.
+
 
 ### Curiosidades:
 - :briefcase: Atualmente sou estagiário na TOTVS;
