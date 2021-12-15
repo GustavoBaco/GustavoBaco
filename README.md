@@ -1,4 +1,4 @@
-## 👋 Olá, Bem-vindo ao meu Github.
+## 💻 Hello World.
 ### Meu nome é Gustavo, sou formado em administração de empresas, estudando análise e desenvolvimento de sistemas e apaixonado por tecnologia.
 
 
