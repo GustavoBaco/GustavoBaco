@@ -4,7 +4,7 @@
 
 
 ### Curiosidades:
-- :briefcase: Atualmente sou estagiário na TOTVS;
+- :briefcase: Estagiário na TOTVS;
 - :video_game: Fã de games;
 - :coffee: Amante de um bom café;
 - :scroll: Apaixonado por historias em quadrinhos. 
