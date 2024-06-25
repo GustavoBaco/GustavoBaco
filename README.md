@@ -24,5 +24,4 @@
 <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
 </a> 
 
-![Snake animation](https://github.com/GustavoBaco/GustavoBaco/blob/output/github-contribution-grid-snake.svg)
   
