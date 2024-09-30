@@ -1,5 +1,5 @@
 ## 💻 Hello World.
-### Meu nome é Gustavo, sou formado em administração de empresas, estudando análise e desenvolvimento de sistemas e apaixonado por tecnologia.
+### 🚀Atuando como desenvolvedor Full-Stack desde 2021 na fábrica de software, desenvolvendo customizações para o segmento de varejo. Profissional responsável, com senso de urgência nas demandas/projetos e facilidade para trabalhar em equipe. 
 
 
 
