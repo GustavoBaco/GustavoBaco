@@ -4,7 +4,7 @@
 
 
 ### Curiosidades:
-- :briefcase: Técnico em desenvolvimento de software na TOTVS;
+- :briefcase: Analista I de Desenvolvimento de Software na TOTVS;
 - :video_game: Fã de games;
 - :coffee: Amante de um bom café;
 - :scroll: Apaixonado por historias em quadrinhos. 
