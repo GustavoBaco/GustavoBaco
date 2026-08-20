@@ -1,10 +1,10 @@
 ## 💻 Hello World.
-### 🚀Atuando como desenvolvedor .Net desde 2021 na fábrica de software, desenvolvendo customizações para o segmento de varejo. Profissional responsável, com senso de urgência nas demandas/projetos e facilidade para trabalhar em equipe. 
+### 🚀Com experiência sólida desde 2021 em fábrica de software, atuo no desenvolvimento, evolução e customização de soluções críticas para o segmento de varejo 🛒. Hoje, como Desenvolvedor Pleno, sou responsável pela entrega end-to-end de um dos principais softwares de configuração de PDV utilizados em grandes redes de supermercados do Brasil.
 
 
 
 ### Curiosidades:
-- :briefcase: Analista I de Desenvolvimento de Software na TOTVS;
+- :briefcase: Analista II de Desenvolvimento de Software na TOTVS;
 - :video_game: Fã de games;
 - :coffee: Amante de um bom café;
 - :scroll: Apaixonado por historias em quadrinhos. 
